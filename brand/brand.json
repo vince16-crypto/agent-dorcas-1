@@ -1,0 +1,34 @@
+{
+  "channel_name": "Nia's Rhythm Room",
+  "handle": "@NiasRhythmRoom",
+  "tagline": "Sing, dance & learn with Nia!",
+  "mascot": {
+    "name": "Nia",
+    "description": "A joyful 6-year-old Black girl with two big round afro puffs tied with teal ties, warm brown skin, big bright eyes, a wide smile, bright yellow headphones with orange ear cups, and an orange shirt with a yellow collar and little yellow, teal and white polka dots. Flat 2D children's cartoon style, bold clean outlines, soft shading.",
+    "friends": [
+      "Kofi - Nia's little brother, 4, short curly hair, green overalls, loves drums",
+      "Grandma Dot - Nia's grandmother, silver locs in a wrap, purple dress, plays keyboard",
+      "Beau - a fluffy golden puppy who dances"
+    ]
+  },
+  "palette": {"purple": "#4A1F73", "violet": "#7B3FB0", "orange": "#FF6B3D", "yellow": "#FFD23F", "teal": "#2EC4B6"},
+  "audience": "Toddlers and preschoolers ages 1-6 and their parents",
+  "music_style": "Modern kid-friendly hip-hop, R&B, gospel-pop, bounce, afrobeats and go-go grooves; clean, positive, singable choruses; bright child-like lead vocal with warm adult backing vocals; 90-130 BPM.",
+  "visual_themes": [
+    "block party in the neighborhood", "HBCU-style marching band parade", "family cookout in the backyard",
+    "Sunday morning kitchen dance", "barbershop and beauty shop", "city park playground", "grandma's porch",
+    "school classroom with diverse friends", "carnival with steel drums", "museum field trip"
+  ],
+  "channel_description": "Welcome to Nia's Rhythm Room! 🎶 Sing, dance and learn with Nia, her little brother Kofi, Grandma Dot and Beau the puppy.\n\nWe make catchy, feel-good learning songs for toddlers and preschoolers — ABCs, numbers, colors, shapes, feelings, healthy habits, family and culture — set to the grooves grown-ups love too: hip-hop, R&B, gospel, bounce and afrobeats.\n\n✨ New songs every Monday, Wednesday and Friday.\n\nMade with love (and help from AI tools) for little learners everywhere. Subscribe and turn up the rhythm!",
+  "channel_keywords": [
+    "kids songs", "nursery rhymes", "toddler songs", "preschool learning", "learning songs for kids",
+    "abc song", "numbers song", "educational songs", "kids music", "black kids songs",
+    "hip hop kids songs", "kids dance songs", "Nia's Rhythm Room"
+  ],
+  "title_pattern": "{title} | Nia's Rhythm Room | Kids Songs & Nursery Rhymes",
+  "default_tags": ["kids songs", "nursery rhymes", "toddler songs", "learning songs", "preschool songs", "songs for kids", "kids music", "Nia's Rhythm Room"],
+  "category_id": "27",
+  "made_for_kids": true,
+  "contains_synthetic_media": true,
+  "publish_schedule": {"days": ["Mon", "Wed", "Fri"], "publish_time_et": "16:00"}
+}
